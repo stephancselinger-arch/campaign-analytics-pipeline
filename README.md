@@ -179,3 +179,5 @@ Covers the transform stage (flags, revenue, validation, column ordering), the pr
 - **clickhouse-connect** — ClickHouse client
 - **FastAPI** + **Pydantic v2** — ingestion gateway + validation
 - Python 3.12+
+
+<!-- Last updated: 2026-06-03 -->
