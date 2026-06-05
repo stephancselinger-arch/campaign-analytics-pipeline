@@ -181,3 +181,5 @@ Covers the transform stage (flags, revenue, validation, column ordering), the pr
 - Python 3.12+
 
 <!-- Last updated: 2026-06-03 -->
+
+<!-- Last updated: 2026-06-05 -->
