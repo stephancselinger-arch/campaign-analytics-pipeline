@@ -355,3 +355,5 @@ Covers the transform stage (flags, revenue, validation, column ordering), the pr
 <!-- Last updated: 2026-11-19 -->
 
 <!-- Last updated: 2026-11-21 -->
+
+<!-- Last updated: 2026-11-23 -->
